@@ -30,7 +30,7 @@
     "chalk": "^1.0.0",
     "ember-cli-babel": "^5.0.0",
     "ember-intl-format-cache": "1.2.0",
-    "ember-intl-messageformat": "1.2.0",
+    "ember-intl-messageformat": "https://github.com/CrshOverride/intl-messageformat.git",
     "ember-intl-relativeformat": "1.2.0",
     "ember-new-computed": "^1.0.1",
     "exists-sync": "0.0.3",

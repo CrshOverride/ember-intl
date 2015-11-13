@@ -29,7 +29,7 @@
     "broccoli-stew": "^0.3.3",
     "chalk": "^1.0.0",
     "ember-cli-babel": "^5.0.0",
-    "ember-intl-format-cache": "1.2.0",
+    "ember-intl-format-cache": "https://github.com/CrshOverride/ember-intl-format-cache.git",
     "ember-intl-messageformat": "https://github.com/CrshOverride/ember-intl-messageformat.git",
     "ember-intl-relativeformat": "https://github.com/CrshOverride/ember-intl-relativeformat.git",
     "ember-new-computed": "^1.0.1",
